@@ -5,7 +5,7 @@
 # Скриншоты
 
 <!-- Один скрин -->
-![Vue Account Manager — основной экран](docs/screenshots/main-light.png)
+![Vue Account Manager — основной экран]([docs/screenshots/main-light.png](https://raw.githubusercontent.com/Zakirov-Yuriy/vue-account-manager/master/docs/screenshots/main-light.png))
 
 # Функциональность
 
